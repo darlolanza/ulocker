@@ -1,2 +1,2 @@
-# ulocker.github.io
+# ulocker
 U Locker
